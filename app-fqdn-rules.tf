@@ -6,7 +6,7 @@ locals {
       "aviatrix.com"   = "80"
     }
     udp = {
-      "dns.google.com" = "53"
+      "dns.google.com" = "54"
     }
   }
 }
